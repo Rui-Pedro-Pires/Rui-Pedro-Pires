@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruipires999&label=Profile%20views&color=0e75b6&style=flat" alt="ruipires999" /> </p>
 
+<a>
+  <img align="center" src=https://github.com/RuiPires999/RuiPires999/assets/135347161/54de8fea-f609-44b9-9037-82cb039b5614>
+
+</a>
+
 - 🔭 I’m currently Studying at [42 Porto](https://www.42porto.com/)
 
 - 📫 How to reach me **ruipedro.pires999@gmail.com**
