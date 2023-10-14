@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rui Pires</h1>
 <h3 align="center">A passionate developer from Portugal</h3>
 
-<a href= "" target="blank"> <img align="center" src="https://repository-images.githubusercontent.com/597349313/15198b79-92d2-460a-a587-62cba023cb41" height="160" width="300" /></a>
+<a href= "https://github.com/RuiPires999/Common-Core" target="blank"> <img align="center" src="https://repository-images.githubusercontent.com/597349313/15198b79-92d2-460a-a587-62cba023cb41" height="160" width="300" /></a>
 <a href="https://github.com/RuiPires999/Piscine" target="blank"><img align="center" src="https://www.codequoi.com/wp-content/uploads/2022/07/codequoi_42_piscine_cover.png" height="160" width="300" /></a>
 
 - 🔭 I’m currently Studying at [42 Porto](https://www.42porto.com/)
