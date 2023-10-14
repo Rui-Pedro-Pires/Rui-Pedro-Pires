@@ -4,9 +4,7 @@
 <a>
   <img align="center" src=https://github.com/RuiPires999/RuiPires999/assets/135347161/54de8fea-f609-44b9-9037-82cb039b5614 height="160" width="300">
 </a>
-<a href=https://github.com/RuiPires999/Piscine>
-  <img align="center" src=https://github.com/RuiPires999/RuiPires999/assets/135347161/1e96f20e-c7c6-49f4-b3f5-95f59a0dc935 height="160" width="300">
-</a>
+<a href=https://github.com/RuiPires999/Piscine><img align="center" src=https://github.com/RuiPires999/RuiPires999/assets/135347161/1e96f20e-c7c6-49f4-b3f5-95f59a0dc935 height="160" width="300" /></a>
 
 - 🔭 I’m currently Studying at [42 Porto](https://www.42porto.com/)
 
