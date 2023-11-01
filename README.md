@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rui Pires</h1>
-<h3 align="center">A passionate developer from Portugal</h3>
-
-<a href= "https://github.com/RuiPires999/Common-Core" target="blank"> <img align="center" src="https://github.com/RuiPires999/Website-Images/blob/main/Group%201.png" height="160" width="300" /></a>
+<a href= "https://github.com/RuiPires999/Common-Core" target="blank"> <img align="center" src="https://github.com/RuiPires999/Website-Images/blob/main/Group%201.png" height="400" width="500" /></a>
 
 
 - 🔭 I’m currently Studying at [42 Porto](https://www.42porto.com/)
