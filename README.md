@@ -1,7 +1,9 @@
 ## 🚀 About Me
 
 🎓 I'm Rui Pires, a Software Developer Student, currently studying at 42 Porto.
+
 🎸 In addition to the world of technology, I have a degree in classical music, and I perform concerts with the Banda Sinfónica Portuguesa
+
 👾 Love to play games
 
 ## Skills
