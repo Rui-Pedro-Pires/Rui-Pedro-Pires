@@ -10,11 +10,11 @@
 
 
 ## 🎓42 Repositories
-<a href=https://github.com/Rui-Pedro-Pires/Common-Core>
+<a href=https://github.com/Rui-Pedro-Pires/Website-Images/blob/main/CommonCore.png>
   <img src=https://github.com/Rui-Pedro-Pires/Website-Images/blob/main/Commoncore.png width=200 height=100 />
 <a/>
   
-<a href=https://github.com/Rui-Pedro-Pires/Piscine>
+<a href=https://github.com/Rui-Pedro-Pires/Website-Images/blob/main/Piscine.png>
   <img src=https://github.com/Rui-Pedro-Pires/Website-Images/blob/main/Piscine(1).png width=200 height=100 />
 <a/>
 
