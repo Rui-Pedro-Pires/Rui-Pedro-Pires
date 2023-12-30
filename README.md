@@ -10,7 +10,7 @@
 
 
 ## 🎓42-School Repositories
-<a href=https://github.com/Rui-Pedro-Pires/Common-Core>
+<a href=https://github.com/Rui-Pedro-Pires/Rui-Pedro-Pires>
   <img src=https://github.com/Rui-Pedro-Pires/Website-Images/blob/main/CommonCore.png width=300 height=150 />
 <a/>
   
