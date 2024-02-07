@@ -8,16 +8,6 @@
 
 🎮 Love to play games
 
-
-## 🎓42-School Repositories
-<a href=https://github.com/Rui-Pedro-Pires/Common-Core>
-  <img src=https://github.com/Rui-Pedro-Pires/Website-Images/blob/main/CommonCore.png width=300 height=150 />
-<a/>
-  
-<a href=https://github.com/Rui-Pedro-Pires/Piscine>
-  <img src=https://github.com/Rui-Pedro-Pires/Website-Images/blob/main/Piscine.png width=300 height=150 />
-<a/>
-
 ## 🛠️Skills
 
 #### 💬Languages
