@@ -15,19 +15,6 @@ I am open to opportunities that allow me to collaborate with talented and inspir
 
 📯 In addition to the world of technology, I have a degree in classical music, and I perform concerts with the Banda Sinfónica Portuguesa, Orquestra Sinfonica Potuguesa, and more...
 
-# 🛠️Skills
-
-#### 💬Languages
-
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C language](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-####  ✂️Design Tools
-
-![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ## 📊My Status
 
