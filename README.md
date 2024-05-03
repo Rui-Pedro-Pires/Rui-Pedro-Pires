@@ -16,14 +16,6 @@ I am open to opportunities that allow me to collaborate with talented and inspir
 📯 In addition to the world of technology, I have a degree in classical music, and I perform concerts with the Banda Sinfónica Portuguesa, Orquestra Sinfonica Potuguesa, and more...
 
 
-## 📊My Status
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rui-Pedro-Pires&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rui-Pedro-Pires&layout=donut&theme=radical&size_weight=1&count_weight=0.5&)]
-
-<img src="https://komarev.com/ghpvc/?username=RuiPires999&style=flat-square&color=blue" alt=""/>
-
 ## ☎️Contact me
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Rui-Pedro-Pires)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ruipedrooliveirapires)
