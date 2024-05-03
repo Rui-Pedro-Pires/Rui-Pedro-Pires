@@ -20,7 +20,7 @@ I am open to opportunities that allow me to collaborate with talented and inspir
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rui-Pedro-Pires&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rui-Pedro-Pires&layout=donut&theme=radical&size_weight=1&count_weight=0.5&)](https://github.com/jose5556/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rui-Pedro-Pires&layout=donut&theme=radical&size_weight=1&count_weight=0.5&)]
 
 <img src="https://komarev.com/ghpvc/?username=RuiPires999&style=flat-square&color=blue" alt=""/>
 
