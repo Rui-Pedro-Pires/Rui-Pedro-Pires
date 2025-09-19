@@ -1,17 +1,6 @@
 # Hi, There 👋!
 
-🧑🏽‍🎓 I'm Rui Pires, a Software Development Student, currently studying at 42 Porto.
-
-## 🚀 About me
-I consider myself a very interested and curious individual, always ready to learn and willing to expand my knowledge. Upon entering the world of programming, I discovered my passion for software development.
-
-## 🛠️ Technical Skills
-Technologies: C, C++, Python, HTML, CSS, Google Cloud Platform.
-Database: MySQL.
-Tools: git, GitHub.
-
-📯 In addition to the world of technology, I have a degree in classical music, and I perform concerts with the Banda Sinfónica Portuguesa, Orquestra Sinfonica Potuguesa, and more...
-
+🧑🏽‍🎓 I'm Rui Pires, a Software Developer.
 
 ## ☎️Contact me
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Rui-Pedro-Pires)
